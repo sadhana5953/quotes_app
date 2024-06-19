@@ -1,16 +1,13 @@
-# quotes_app
+# Quotes App
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/c63d1ccb-afac-4ae0-a4cc-a5f8f3ae1fa2" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/2e97412c-a326-49bd-b50a-1fafdd9ef8e5" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/d0f8f911-7dd4-4f42-861e-8b853d5e6fb2" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/cfd20c8d-23b1-4728-b271-1cb1ca18f774" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/5966605b-9946-48fe-aa7e-d0ddb8fbbb6c" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/fc3bbdab-a327-4d0b-af87-9fdad401edbc" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/cf3433e4-fd36-4f3d-81f4-fea89e214bd7" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quotes_app/assets/148869257/189eb7be-e326-46c7-83d4-8645d7b91d93" height=22% width=35%>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
