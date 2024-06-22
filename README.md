@@ -8,6 +8,6 @@
 <img src="https://github.com/sadhana5953/quotes_app/assets/148869257/cf3433e4-fd36-4f3d-81f4-fea89e214bd7" height=22% width=35%>
 <img src="https://github.com/sadhana5953/quotes_app/assets/148869257/189eb7be-e326-46c7-83d4-8645d7b91d93" height=22% width=35%>
 
-
+https://github.com/sadhana5953/quotes_app/assets/148869257/b35be8fc-9225-4b73-8a59-6f32d7280938
 
 
